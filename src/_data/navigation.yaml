@@ -1,10 +1,12 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: Accueil
+    url: "/"
+  - text: Archives
     url: "/blog"
+  - text: À propos
+    url: "/about"
+  - text: Nous aider
+    url: "/nous-aider"
+  - text: À la carte
+    url: "/carte"

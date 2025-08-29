@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: YouTube
+    url: "https://www.youtube.com/vivreaucanada"
+    desc: Abonnez-vous sur YouTube et likez nos vidéos
+  - title: Apple Podcasts
+    url: "https://podcasts.apple.com/fr/podcast/vivre-au-canada-tv/id973045079"
+    desc: Écouter sur Apple Podcasts
+  - title: Facebook
+    url: "https://facebook.com/vivreaucanada"
+    desc: Rejoignez notre communauté sur Facebook
+  - title: Faire un don
+    url: "https://opencollective.com/vivre-au-canadatv/donate?interval=oneTime&amount=5&contributeAs=me"
+    desc: Faire un don pour nous soutenir.
