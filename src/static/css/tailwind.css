@@ -18,3 +18,14 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+
+/* Liens avec la classe postlist-link */
+a.postlist-link {
+  color: red;
+}
+
+/* Optionnel : couleur au survol */
+a.postlist-link:hover {
+  color: darkred;
+}
