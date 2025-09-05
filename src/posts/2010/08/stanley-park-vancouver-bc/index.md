@@ -12,9 +12,9 @@ tags:
   - "vancouver"
 coverImage: "Sans-titre-44.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/AGFqacUQTl0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Le Parc Stanley est un parc urbain de 404,9 hectares qui se situe à Vancouver, en Colombie-Britannique. Le parc a été officiellement ouvert le 27 septembre 1888. Il est le troisième plus grand parc urbain d'Amérique du Nord, étant 10% plus étendu que celui de Central Park à New York. Le parc attire environ huit millions de visiteurs chaque année, incluant à la fois les touristes et les habitants, qui viennent pour ses installations récréatives et ses attributs naturels. Une corniche de 8,8 kilomètres qui permet de faire le tour du parc, est utilisée par 2,5 millions de marcheurs, cyclistes et skaters chaque année. En faites-vous partie ?
 
 ##### Lire aussi l'article "[Vancouver, la ville aux cent visages](https://noteauvoyageur.eu/vivre-vancouver-2e-partie/)".

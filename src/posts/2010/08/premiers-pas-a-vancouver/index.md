@@ -16,9 +16,9 @@ tags:
   - "yvr"
 coverImage: "premierspasvancouver.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/TNOemZgFBtg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Arriver à Vancouver n'est pas très différent d'arriver à Montréal. Un autre aéroport et il faut à nouveau chercher comment se rendre au centre-ville. Depuis les Jeux olympiques d'hiver, Vancouver s'est bien équipée. Que vous veniez découvrir la grande ville de l'Ouest en avion, en bus ou en train, cette semaine, Vivre Au Canada accompagne vos premiers pas là-bas. Comme si vous y étiez déjà...
 
 ##### Lire aussi l'article "[A la découverte de Vancouver](https://noteauvoyageur.eu/decouvrir-vancouver-premiere-partie/)".

@@ -12,9 +12,9 @@ tags:
   - "sirop"
 coverImage: "cabaneasucre.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/hgbvlk5fgwI?ecver=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 La Cabane à Sucre, c'est ce dont vous parle Vivre Au Canada cette semaine. C'est à cette période de l'année que les touristes et les Québécois sortent des grandes villes pour se rapprocher de la campagne et profiter des produits de l'érable. On en trouve aussi en ville, comme nous l'explique Mario Bonenfant à propos de l'érablière urbaine qui prendra place dès le 6 mars au Parc Molson.
 
 ##### Lire aussi l'article "[Excursion à la cabane à sucre](https://noteauvoyageur.eu/excursion-a-la-cabane-a-sucre-quebec/)".

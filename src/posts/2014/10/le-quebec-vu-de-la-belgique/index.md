@@ -9,9 +9,9 @@ tags:
   - "quebec"
 coverImage: "Sans-titre-22.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/8tH4CROACfo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 S'ils partagent la même langue, les Français et les Belges francophones n'ont pas toujours une vision très juste de ce à quoi ressemble vraiment le Québec. Pourtant, même en l'imaginant rempli d'ours polaires, le Québec attire par les promesses d'une vie meilleure.
 
 Peut-être avez-vous déjà entendu [des parisiens divaguer sur leur Québec fantasmé](https://www.youtube.com/watch?v=M985FUWVESg "URBANIA - Le Québec vu par les français") ? Cette semaine, Vivre Au Canada a décidé d'aller à la rencontre des habitants de la capitale de la Belgique. Comment les habitants de Bruxelles et alentours voient-ils le Québec ? Entre clichés, rêves et réalités, voici quelques témoignages recueillis au cours d'un micro-trottoir.

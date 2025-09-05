@@ -14,9 +14,9 @@ tags:
   - "walk"
 coverImage: "awalkintoronto.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/iEFe9YuCE-w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Avec plus de 2,5 millions d'habitants, Toronto est la plus grande ville du Canada et la cinquième plus grande en Amérique du Nord. C'est aussi a capitale de la province de l’Ontario au Canada ainsi que le bastion de l'équipe de hockey des Maple Leaf. Toronto est une ville multiculturelle et moderne dont 49% de la population est née à l'extérieur du Canada. Si l'anglais est le standard, une centaine d'autres langues sont parlées. 50% des habitants de Toronto ont une langue maternelle autre que l'anglais, et 32% parlent à la maison une langue autre que l'anglais. Avec un des plus grands quartier chinois d'Amérique du Nord et la tour CN comme symbole, Toronto vaut bien qu'on aille y faire un tour.
 
 ##### Lire aussi l'article "[Un week-end à Toronto](https://noteauvoyageur.eu/un-week-end-bien-rempli-a-toronto/)".

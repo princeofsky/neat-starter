@@ -21,9 +21,9 @@ tags:
   - "travail"
 coverImage: "NumeroAssuranceSociale.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/oZhNes12Xfo?ecver=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Vivre Au Canada.tv vous parle cette semaine du Numéro d’Assurance Sociale. Le NAS, c'est quoi ? Il s'agit d'un numéro de neuf chiffres dont vous aurez besoin pour travailler au Canada ou pour recevoir des prestations et des services liés aux programmes gouvernementaux. Comment l'obtenir ? Mode d'emploi en vidéo.
 
 _Vivre Au Canada's video of the week is about the Social Insurance Number (SIN). It is a nine-digit number that you need to work in Canada or to have access to government programs and benefits. Watch the video to learn how-to have one._

@@ -12,9 +12,9 @@ tags:
   - "vancouver"
 coverImage: "vancouver2minutes.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/yzMsEABhtFY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Vancouver est une ville portuaire du Canada, la plus importante de l'Ouest canadien, située dans la province de la Colombie-Britannique. Troisième agglomération la plus importante du Canada et capitale économique de la Colombie-Britannique, Vancouver est une ville compacte de plus de deux millions d'habitants coincée entre le fleuve Fraser et les montagnes. A découvrir en bien plus que deux minutes.
 
 ##### Lire aussi les articles :

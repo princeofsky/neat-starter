@@ -14,9 +14,9 @@ tags:
   - "ville-souterraine"
 coverImage: "Sans-titre-7.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/1MxPq0kyHx8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 L'hiver Canadien implique deux choses : de grosses chutes de neige et des températures rudement basses. Les Canadiens y survivent pourtant chaque année, leurs outils de déneigement et leurs infrastructures étant parfaitement au point. Damien, Français expatrié à Montréal, nous parle de son expérience face à l'hiver 2010. Faites aussi un tour dans la ville souterraine, qui permet de se déplacer dans le centre-ville de Montréal sans mettre le nez dehors. Allez... bientôt le printemps !
 
 ##### Lire aussi l'article "[Survivre à l'hiver québécois](https://noteauvoyageur.eu/survivre-a-lhiver-quebecois/)".

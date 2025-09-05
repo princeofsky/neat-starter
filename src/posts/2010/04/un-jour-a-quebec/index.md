@@ -13,9 +13,9 @@ tags:
   - "quebec-ville"
 coverImage: "UnJourAQuebec.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/5YZZfSIob_g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Québec est la capitale nationale du Québec, province de l’est du Canada. Il est facile de s'y promener durant une journée. C'est la deuxième plus grande ville du Québec, après Montréal. Le Vieux-Québec figure depuis 1985 sur la liste du patrimoine mondial établie par l’UNESCO. C'est également la seule ville fortifiée d'Amérique du Nord. Passer un jour à Québec, c'est le minimum.
 
 ##### Lire aussi l'article ["A l'assaut de Québec"](https://noteauvoyageur.eu/deux-jours-a-quebec-partie-1/).

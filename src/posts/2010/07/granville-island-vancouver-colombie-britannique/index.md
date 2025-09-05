@@ -15,9 +15,9 @@ tags:
   - "vancouver"
 coverImage: "granvilleisland.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/T6i50Aj7lJs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Granville Island est une péninsule et un quartier commerçant de Vancouver, en Colombie-Britannique. Granville Island était autrefois un secteur industriel aux nombreuses usines, mais est devenu aujourd'hui une destination touristique majeure, bien connue pour son grand marché public et pour sa marina. Le marché public compte une cinquantaine d'étals permanents. En outre, chaque jour, une centaine de vendeur vient s'ajouter temporairement à ce nombre, proposant une variété d'aliments de la région et des pièces artisanales uniques faites à la main. Un endroit qui vaut vraiment le détour.
 
 ##### Lire aussi l'article "[A la découverte de Vancouver](https://noteauvoyageur.eu/decouvrir-vancouver-premiere-partie/)".

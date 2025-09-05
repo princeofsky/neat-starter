@@ -13,9 +13,9 @@ tags:
   - "montreal"
 coverImage: "Sans-titre-3-1.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/bg5tFE2HHdc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Lorsqu'on arrive à Montréal, en tant que simple vacancier ou en tant que futur résident, les premiers pas ne sont pas forcément simples. Arriver dans un endroit où on n'a jamais mis les pieds peut désorienter. Cette semaine, Vivre Au Canada vous accompagne de la descente de l'avion au centre-ville de Montréal. Comme si vous y étiez déjà...
 
 ##### Lire aussi l'article "[5 endroits à ne pas manquer à Montréal](https://www.noteauvoyageur.eu/5-endroits-a-ne-pas-manquer-a-montreal/)".

@@ -12,9 +12,9 @@ tags:
   - "vancouver"
 coverImage: "Sans-titre-2.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/SnxB0npLHT4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Le quartier chinois de Vancouver, en Colombie Britannique, est le plus grand au Canada et le troisième plus grand en Amérique du Nord, après ceux de New York et San Francisco. Il a néanmoins perdu de sa superbe au fur et à mesure que la communauté Chinoise de Vancouver se répartissait dans d'autres quartier de la ville. Dû à la présence d'un grande nombre de Sino-Canadiens à Vancouver, et au fait que la première vague d'immigration provenait de Hong Kong, on a parfois appelé la ville "Hongcouver".
 
 ##### Lire aussi l'article "[Vancouver, la ville aux cent visages](https://noteauvoyageur.eu/vivre-vancouver-2e-partie/)".

@@ -11,9 +11,9 @@ tags:
   - "quebec"
 coverImage: "Sans-titre-4.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/GKJTPE7EpMc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Il y a quatre grands marchés publics à Montréal. Le Marché Jean-Talon est le plus grand d'entre eux et l'un des plus grands marchés ouverts d'Amérique du Nord. Situé au centre du quartier de la Petite Italie, le marché est ouvert toute l'année, même pendant les rudes hivers de Montréal. Et vous, vous êtes plutôt fruit ou légume ?
 
 ##### Lire aussi l'article "[5 endroits à ne pas manquer à Montréal](https://www.noteauvoyageur.eu/5-endroits-a-ne-pas-manquer-a-montreal/)".

@@ -10,9 +10,9 @@ tags:
   - "webtv"
 coverImage: "vivreaucanada.jpg"
 ---
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0dayyZF3Ig?ecver=1" frameborder="0" allowfullscreen></iframe>
-
+</center>
 Vivre Au Canada.tv est une WebTV ayant pour but de faire découvrir comment on vit au Canada, en pratique et ce qu'on peut y trouver.
 
 _Vivre Au Canada.tv is a WebTV with a mission : to show how people live in Canada and what to expect if you immigrate there._

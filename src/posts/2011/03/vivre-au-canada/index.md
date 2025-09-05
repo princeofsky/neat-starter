@@ -11,9 +11,9 @@ tags:
   - "webtv"
 coverImage: "Sans-titre-1.jpg"
 ---
-
+<center>
 <iframe src="https://www.youtube.com/embed/tL_0AAgL91s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+</center>
 Que savez-vous de la vie au Canada ? Peut-être connaissez-vous le fameux accent québécois ou la réputation de l'hiver canadien ? Ce n'est que le sommet de l'iceberg. Vivre au canada, c'est découvrir un pays, des régions, des villes... C'est partir à la rencontre de leurs habitants. C'est vivre des expériences hors du commun. Grâce à nos vidéos, nous espérons vous en faire vivre quelques-unes, et vous donner envie de vivre les autres par vous-mêmes.
 
 N'oubliez pas de nous suivre sur Twitter, Facebook et Google+ pour votre dose quotidienne de Canada !
