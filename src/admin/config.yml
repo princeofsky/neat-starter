@@ -30,7 +30,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["Tags", "Montréal", "Québec", "Toronto", "Ottawa", "Vancouver", "pvt", "activites"]
   - label: "Settings"
     name: "settings"
     editor:
