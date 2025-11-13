@@ -10,6 +10,8 @@ tags:
 ---
 https://youtu.be/KPQMne7xQAs
 
+![](https://www.youtube.com/watch?v=KPQMne7xQAs)
+
 En été comme jamais, Montréal est une ville qui se regarde, qui s’écoute et qui se vit. Cap sur les rues de Montréal, qui accueillent de nombreux festivals, dont beaucoup sont gratuits. Vibrez aux rythmes du [Festival International de Jazz](https://montrealjazzfest.com/fr), admirez les spectaculaires acrobaties du [Montréal Complètement Cirque](https://montrealcompletementcirque.com/)... Entre feux d'artifice et musique électronique, il y en a pour tous les gouts. Alors, profitez de Montréal en extérieur, mais n'oubliez pas de vous protéger contre les coups de soleil !
 
 ##### Lire aussi l'article "[Montréal en juillet](https://www.noteauvoyageur.eu/montreal-en-juillet/)".
