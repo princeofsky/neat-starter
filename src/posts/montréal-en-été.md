@@ -1,6 +1,6 @@
 ---
 title: Montréal en été
-description: _
+description:
 coverImage: MontrealJuillet01.jpg
 author: Vivre Au Canada.tv
 date: 2025-11-15T10:54:56.895Z
