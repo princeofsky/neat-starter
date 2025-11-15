@@ -8,9 +8,9 @@ tags:
   - Montréal
   - activites
 ---
-<div style="text-align:center">
-<iframe src="https://www.youtube.com/embed/KPQMne7xQAs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+<center>
+<iframe src="https://www.youtube.com/embed/KPQMne7xQAs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" align="center"></iframe>
+</center>
 
 En été comme jamais, Montréal est une ville qui se regarde, qui s’écoute et qui se vit. Cap sur les rues de Montréal, qui accueillent de nombreux festivals, dont beaucoup sont gratuits. Vibrez aux rythmes du [Festival International de Jazz](https://montrealjazzfest.com/fr), admirez les spectaculaires acrobaties du [Montréal Complètement Cirque](https://montrealcompletementcirque.com/)... Entre feux d'artifice et musique électronique, il y en a pour tous les gouts. Alors, profitez de Montréal en extérieur, mais n'oubliez pas de vous protéger contre les coups de soleil !
 
