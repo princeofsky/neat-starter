@@ -11,9 +11,9 @@ tags:
 <iframe src="https://www.youtube.com/watch?v=V0m4DbZapTc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
-À quelques heures de la ville de Québec, la région du Bas-Saint-Laurent propose un changement de décors étonnant, entre plages et forets. Les curieux ne manqueront pas de s'arreter à Kamouraska et d'observer les toits de ses maisons, tandis que les plus aventureux feront halte au site historique maritime de la Pointe-au-Père pour visiter le sous-marin Onondaga, à coté de Rimouski. Et bien sur, les amoureux de nature ne manqueront pas de se perdre sur les sentiers du Parc National du Bic, voire dans les méandres du Canyon des Portes de l'Enfer !
+À quelques heures de la ville de Québec, la région du Bas-Saint-Laurent propose un changement de décors étonnant, presque bucolique. Les curieux ne manqueront pas de s'arrêter à Kamouraska et d'observer les toits de ses maisons, tandis que les plus aventureux feront halte au site historique maritime de la Pointe-au-Père pour visiter le sous-marin Onondaga, à côté de Rimouski. Et bien sûr, les amoureux de nature ne manqueront pas de se perdre sur les sentiers du Parc National du Bic, voire dans les méandres du Canyon des Portes de l'Enfer !
 
-_Just a few hours from Quebec City, the Bas-Saint-Laurent region offers a striking change of scenery, with beaches and forests. The curious will want to stop in Kamouraska and admire the roofs of its houses, while the more adventurous will want to visit the Pointe-au-Père maritime historic site to see the Onondaga submarine, near Rimouski. And of course, nature lovers will want to lose themselves on the trails of Bic National Park, or even in the twists and turns of the Portes de l'Enfer Canyon!_
+_Just a few hours from Quebec City, the Bas-Saint-Laurent region offers a striking change of scenery, almost bucolic. The curious will want to stop in Kamouraska and admire the roofs of its houses, while the more adventurous will want to visit the Pointe-au-Père maritime historic site to see the Onondaga submarine, near Rimouski. And of course, nature lovers will want to lose themselves on the trails of Bic National Park, or even in the twists and turns of the Portes de l'Enfer Canyon!_
 
 #### Liens mentionnés dans la vidéo :
 
