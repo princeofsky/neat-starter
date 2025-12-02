@@ -2,7 +2,7 @@
 title: Bas-Saint-Laurent, Québec
 coverImage: bassaintlaurent.jpg
 author: Vivre Au Canada
-date: 2025-12-15T15:05:51.068Z
+date: 2025-12-15T12:05:51.068Z
 tags:
   - Québec
   - activites
