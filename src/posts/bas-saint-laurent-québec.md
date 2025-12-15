@@ -8,7 +8,7 @@ tags:
   - activites
 ---
 <center>
-<iframe src="https://www.youtube.com/watch?v=V0m4DbZapTc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/V0m4DbZapTc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 À quelques heures de la ville de Québec, la région du Bas-Saint-Laurent propose un changement de décors étonnant, presque bucolique. Les curieux ne manqueront pas de s'arrêter à Kamouraska et d'observer les toits de ses maisons, tandis que les plus aventureux feront halte au site historique maritime de la Pointe-au-Père pour visiter le sous-marin Onondaga, à côté de Rimouski. Et bien sûr, les amoureux de nature ne manqueront pas de se perdre sur les sentiers du Parc National du Bic, voire dans les méandres du Canyon des Portes de l'Enfer !
