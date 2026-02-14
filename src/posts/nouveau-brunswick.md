@@ -1,6 +1,6 @@
 ---
 title: Nouveau-Brunswick
-coverImage: avenir.jpg
+coverImage: nouveaubrunswick.jpg
 author: Vivre Au Canada
 date: 2026-02-15T12:10:12.476Z
 tags:
