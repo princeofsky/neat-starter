@@ -16,11 +16,11 @@ Le **Village historique acadien** est un véritable musée à ciel ouvert. Les v
 
 Des interprètes en costumes incarnent des Acadiens de différentes générations animent les lieux, démontrent les métiers traditionnels, et racontent des histoires de la vie acadienne. Un lieu idéal pour mieux comprendre la culture, les traditions et l'histoire de ce peuple.
 
-*Are you familiar with Acadia? This historic region of Canada was founded by French settlers in the 17th century. Today, a large part of the Acadian community lives in New Brunswick. To learn more about the history and culture of this region, head to the Acadian Historical Village!
+*Are you familiar with Acadia? This historic region of Canada was founded by French settlers in the 17th century. Today, a large part of the Acadian community lives in New Brunswick. To learn more about the history and culture of this region, head to the Acadian Historical Village!*
 
-The **Acadian Historical Village** is a veritable open-air museum. Visitors can explore more than **40 historic buildings** and learn how Acadians lived until the 19th century.
+*The **Acadian Historical Village** is a veritable open-air museum. Visitors can explore more than **40 historic buildings** and learn how Acadians lived until the 19th century.*
 
-Costumed interpreters portray Acadians from different generations, bringing the site to life, demonstrating traditional crafts, and telling stories of Acadian life. It's the perfect place to gain a deeper understanding of the culture, traditions, and history of this people.*
+*Costumed interpreters portray Acadians from different generations, bringing the site to life, demonstrating traditional crafts, and telling stories of Acadian life. It's the perfect place to gain a deeper understanding of the culture, traditions, and history of this people.*
 
 #### Liens mentionnés dans la vidéo :
 
