@@ -1,6 +1,6 @@
 ---
 title: Le village historique acadien
-coverImage: avenir.jpg
+coverImage: villageacadien.jpg
 author: Vivre Au Canada
 date: 2026-03-15T13:43:23.970Z
 tags:
