@@ -7,7 +7,7 @@ tags:
   - activites
 ---
 <center>
-<iframe src="https://www.youtube.com/embed/V0m4DbZapTc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/--kcgQ3fvII" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 Vous connaissez l'Acadie ? Cette région historique du Canada fondée par des colons français au 17e siècle ? Aujourd'hui, on retrouve une bonne partie de la communauté acadienne au Nouveau-Brunswick. Pour en savoir plus sur l’histoire et la culture de cette région, direction le village historique acadien !
