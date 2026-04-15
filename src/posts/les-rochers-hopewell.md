@@ -7,7 +7,7 @@ tags:
   - activites
 ---
 <center>
-<iframe src="https://www.youtube.com/embed/_fB-U0DhCNA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/p1C7fm7OmBc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 Le cap Hopewell cache l'un des secrets les moins bien gardé du Nouveau-Brunswick. Cette côté de deux kilomètres parsemée d’une vingtaine de monolithes d’érosion, les rochers pots de fleurs. L'autre particularité du **Parc provincial des rochers Hopewell**, ce sont ses deux visages : en fonction de la marée, le paysage change complètement. Amoureux de la nature, vous ne serez pas déçus !
