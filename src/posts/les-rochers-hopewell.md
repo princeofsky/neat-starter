@@ -1,6 +1,6 @@
 ---
 title: Les Rochers Hopewell
-coverImage: avenir.jpg
+coverImage: hopewellcape.jpg
 author: Vivre Au Canada
 date: 2026-04-15T12:43:00.000Z
 tags:
