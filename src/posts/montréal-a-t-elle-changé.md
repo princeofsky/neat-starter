@@ -1,6 +1,6 @@
 ---
 title: Montréal a-t-elle changé ?
-coverImage: avenir.jpg
+coverImage: montrealchange.jpg
 author: Vivre Au Canada
 date: 2026-05-15T11:02:00.000Z
 tags:
