@@ -23,6 +23,7 @@ _Whether you’re planning a memorable trip or thinking of settling in New Bruns
 _- **Fredericton:** The cultural and academic capital. A peaceful setting on the banks of the Wolastoq (Saint John) River, perfect for families and lovers of art and history._
 
 _- **Saint John:** The buzz of Canada’s oldest incorporated city. With its industrial architecture, economic vitality and the incredible Bay of Fundy, it appeals to tourists and young professionals alike._
+
 _- **Edmundston:** The hub of Francophone culture and nature. Nestled inland, it is the ideal stop for outdoor enthusiasts (cycling, skiing, hiking) and a warm, friendly town on a human scale._
 
 #### Liens mentionnés dans la vidéo :
