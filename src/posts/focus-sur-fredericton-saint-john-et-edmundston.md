@@ -7,7 +7,7 @@ tags:
   - pvt
 ---
 <center>
-<iframe src="https://www.youtube.com/embed/" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/scsih_SbbjY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 Que vous prépariez un voyage mémorable ou que vous envisagiez de vous installer au Nouveau-Brunswick, cette vidéo vous emmène au cœur de trois villes incontournables de la province.
