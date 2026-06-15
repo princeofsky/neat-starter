@@ -1,6 +1,6 @@
 ---
 title: Focus sur Fredericton, Saint-John et Edmundston
-coverImage: avenir.jpg
+coverImage: frederictonsaintjohnedmunston.jpg
 author: Vivre Au Canada
 date: 2026-06-15T11:01:26.270Z
 tags:
