@@ -15,4 +15,6 @@ Saint John (ou Saint Jean en français), c'est la ville sur la baie de Fundy. Un
 
 _Saint John (or Saint Jean in French) is the city on the Bay of Fundy. It’s a city right on the water, with its steep streets, its architectural heritage, and its harbor. Visit its historic public market — one of the oldest in Canada — with a structure reminiscent of an upside-down ship’s hull, or take a stroll through King Square, a classic urban park featuring a bandstand dating back to the early 1900s. It’s one of New Brunswick’s must-see cities!_
 
-Site de la ville de Saint John https://saintjohn.ca/fr
+#### Liens mentionnés dans la vidéo :
+
+- [Site de la ville de Saint John]( https://saintjohn.ca/fr)
