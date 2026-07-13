@@ -7,6 +7,7 @@ tags:
   - activites
   - pvt
 ---
+https://youtu.be/lwwZ0qr1Bx8
 
 Saint John (ou Saint Jean en français), c'est la ville sur la baie de Fundy. Une ville qui a les pieds dans l'eau, avec ses ruelles escarpées, son patrimoine architectural, et son port. Visitez son marché public historique, l'un des plus anciens du Canada, dont la charpente rappelle la coque inversée d’un navire, ou promenez-vous dans Square King, un parc urbain classique où se trouve un kiosque à musique datant du début des années 1900. Une des villes incontournables du Nouveau-Brunswick!
 
