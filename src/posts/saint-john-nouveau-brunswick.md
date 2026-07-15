@@ -1,6 +1,6 @@
 ---
 title: Saint John, Nouveau-Brunswick
-coverImage: avenir.jpg
+coverImage: saintjohn.jpg
 author: Vivre Au Canada
 date: 2026-07-15T14:27:59.945Z
 tags:
