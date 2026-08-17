@@ -30,4 +30,4 @@ _- **Edmundston:** The hub of Francophone culture and nature. Nestled inland, it
 
 - [Tourisme Frédéricton](https://www.frederictoncapitalregion.ca/)
 - [Tourisme Saint John](https://www.discoversaintjohn.com/)
-- [Tourisme Edmunston](https://www.tourismedmundston.com/fr-ca/)
+- [Tourisme Edmundston](https://www.tourismedmundston.com/fr-ca/)
