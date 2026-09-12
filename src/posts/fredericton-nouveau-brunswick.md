@@ -1,6 +1,6 @@
 ---
 title: Fredericton, Nouveau-Brunswick
-coverImage: avenir.jpg
+coverImage: fredericton.jpg
 author: Vivre Au Canada
 date: 2026-09-15T13:57:17.367Z
 tags:
