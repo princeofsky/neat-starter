@@ -7,7 +7,7 @@ tags:
   - activites
 ---
 <center>
-<iframe src="https://www.youtube.com/embed/_nXy-kW5UUU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/3mNji7oUf0E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 Capitale du Nouveau-Brunswick, Frédéricton est une ville où se côtoient quartiers historiques, microbrasseries et espaces verts. Que vous soyez adeptes de longues promenades (plus de 120 km de sentiers !), de festivals ou de patrimoine, vous devriez trouver votre compte à Frédéricton.
