@@ -1,6 +1,6 @@
 ---
 title: Les parcs canadiens
-coverImage: avenir.jpg
+coverImage: parcs.jpg
 author: Vivre Au Canada.tv
 date: 2026-10-15T10:37:35.787Z
 tags:
