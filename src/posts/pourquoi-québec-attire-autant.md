@@ -21,3 +21,9 @@ Québec ne vend pas du rêve : elle offre une vraie qualité de vie au quotidien
 In this video, discover what makes Québec City’s true strength: a city on a human scale, a housing market that’s still affordable, rare economic stability, and an ideal living environment that leaves room for nature (with, for example, Montmorency Falls just a few minutes from the city centre).
 
 Québec City doesn’t sell a dream: it offers a genuine quality of life on a day-to-day basis.*
+
+
+#### Liens mentionnés dans la vidéo :
+
+* [Site officiel de la ville de Québec](https://www.ville.quebec.qc.ca/)
+* [Visiter Québec: Guide officiel](https://www.quebec-cite.com/)
