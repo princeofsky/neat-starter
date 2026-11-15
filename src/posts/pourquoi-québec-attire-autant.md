@@ -7,7 +7,7 @@ tags:
   - Québec
 ---
 <center>
-<iframe src="https://www.youtube.com/embed/rXuqp2VEcHM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/oFVer0c6ZvI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 On vient souvent à Québec pour son décor de carte postale : le Vieux-Québec, ses ruelles pavées, le château Frontenac qui surplombe le Saint-Laurent, qu'on décrit souvent comme un petit morceau d'Europe en Amérique du Nord. Mais si l’on arrive pour visiter… on reste pour de toutes autres raisons.
