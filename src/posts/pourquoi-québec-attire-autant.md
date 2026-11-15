@@ -1,6 +1,6 @@
 ---
 title: Pourquoi Québec attire autant ?
-coverImage: avenir.jpg
+coverImage: quebecattire.jpg
 author: Vivre Au Canada.tv
 date: 2026-11-15T17:23:30.593Z
 tags:
