@@ -30,7 +30,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "Montréal", "Québec", "Toronto", "Ottawa", "Vancouver", "pvt", "activites", "Nouveau-Brunswick", "regions", "tourisme"]
+        options: ["Tags", "Montréal", "Québec", "pvt", "activites", "Nouveau-Brunswick", "regions", "tourisme"]
   - label: "Settings"
     name: "settings"
     editor:
