@@ -5,6 +5,7 @@ author: Vivre Au Canada.tv
 date: 2026-11-15T17:23:30.593Z
 tags:
   - Québec
+  - pvt
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/oFVer0c6ZvI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
