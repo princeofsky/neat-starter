@@ -5,6 +5,7 @@ author: Vivre Au Canada
 date: 2026-04-15T12:43:00.000Z
 tags:
   - activites
+  - Nouveau-Brunswick
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/p1C7fm7OmBc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
