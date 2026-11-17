@@ -5,6 +5,7 @@ author: Vivre Au Canada
 date: 2026-07-15T14:27:59.945Z
 tags:
   - Nouveau-Brunswick
+  - regions
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/lwwZ0qr1Bx8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
