@@ -1,12 +1,13 @@
 ---
 title: Montréal en été
-description:
+description: null
 coverImage: MontrealJuillet01.jpg
 author: Vivre Au Canada.tv
 date: 2025-11-15T10:54:56.895Z
 tags:
   - Montréal
   - activites
+  - regions
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/KPQMne7xQAs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" align="center"></iframe>
