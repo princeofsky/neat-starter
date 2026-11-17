@@ -10,32 +10,40 @@ layout: blog
         <p class="mt-2 text-lg text-gray-600">Découvrez nos vidéos et articles sur le Canada.</p>
     </div>
 
-    <!-- Barre de filtres par catégories (Syntaxe x-on et x-bind compatible htmlmin) -->
+    {% set postslist = collections.post %}
+
+    <!-- Barre de filtres dynamique basée sur tes vraies catégories -->
     <div class="flex flex-wrap justify-center gap-2 mb-12">
+        <!-- Bouton "Tous" -->
         <button x-on:click="activeCategory = 'all'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'all', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'all' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
             Tous les articles
         </button>
+
+        <!-- Bouton Régions -->
         <button x-on:click="activeCategory = 'regions'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'regions', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'regions' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            Villes & Régions
+            🏙️ Régions
         </button>
+
+        <!-- Bouton Activités -->
         <button x-on:click="activeCategory = 'activites'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'activites', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'activites' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            Activités
+            🌲 Activités
         </button>
+
+        <!-- Bouton PVT -->
         <button x-on:click="activeCategory = 'pvt'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'pvt', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'pvt' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            Vie Pratique
+            ☕ PVT & Vie pratique
         </button>
     </div>
 
     <!-- Grille d'articles -->
-    {% set postslist = collections.post %}
     <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         {% for post in postslist | reverse %}
         
