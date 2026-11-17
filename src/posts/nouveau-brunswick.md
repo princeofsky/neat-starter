@@ -4,7 +4,7 @@ coverImage: nouveaubrunswick.jpg
 author: Vivre Au Canada
 date: 2026-02-15T12:10:12.476Z
 tags:
-  - activites
+  - regions
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/_fB-U0DhCNA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
