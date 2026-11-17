@@ -6,22 +6,21 @@ layout: blog
     
     <!-- En-tête de section -->
     <div class="text-center max-w-3xl mx-auto mb-10">
-        <h1 class="text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">Nos derniers reportages</h1>
-        <p class="mt-2 text-lg text-gray-600">Découvrez nos vidéos et articles sur le Canada.</p>
+        <p class="mt-2 text-lg text-gray-600">Découvrez nos dernières vidéos.</p>
     </div>
 
     {% set postslist = collections.post %}
 
-    <!-- Barre de filtres dynamique basée sur tes vraies catégories -->
+    <!-- Barre de filtres basée sur tes tags -->
     <div class="flex flex-wrap justify-center gap-2 mb-12">
-        <!-- Bouton "Tous" -->
+        <!-- Bouton Tous -->
         <button x-on:click="activeCategory = 'all'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'all', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'all' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
             Tous les articles
         </button>
 
-        <!-- Bouton Régions -->
+        <!-- Bouton Villes et régions -->
         <button x-on:click="activeCategory = 'regions'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'regions', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'regions' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
@@ -35,7 +34,7 @@ layout: blog
             Activités
         </button>
 
-        <!-- Bouton PVT -->
+        <!-- Bouton Vie pratique (associé au tag 'pvt') -->
         <button x-on:click="activeCategory = 'pvt'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'pvt', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'pvt' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
@@ -47,16 +46,22 @@ layout: blog
     <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         {% for post in postslist | reverse %}
         
+        <!-- On injecte les tags dans un attribut data-tags pour que Alpine.js puisse les filtrer proprement -->
         <article class="flex flex-col bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow duration-300 relative"
-                 x-show="activeCategory === 'all' || activeCategory === '{{ post.data.category }}'"
+                 data-tags=" {{ post.data.tags | join(' ') }} "
+                 x-show="activeCategory === 'all' || $el.getAttribute('data-tags').includes(' ' + activeCategory + ' ')"
                  x-transition>
             
-            <!-- Badge de catégorie -->
-            {% if post.data.category %}
-            <div class="mb-3">
-                <span class="inline-block bg-indigo-50 text-indigo-700 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">
-                    {{ post.data.category }}
-                </span>
+            <!-- Badges des tags (affiche tous les tags de l'article sauf le tag technique 'post') -->
+            {% if post.data.tags %}
+            <div class="mb-3 flex flex-wrap gap-1">
+                {% for tag in post.data.tags %}
+                    {% if tag != "post" %}
+                    <span class="inline-block bg-indigo-50 text-indigo-700 text-xs font-semibold px-2.5 py-0.5 rounded-full uppercase tracking-wider">
+                        {{ tag }}
+                    </span>
+                    {% endif %}
+                {% endfor %}
             </div>
             {% endif %}
 
