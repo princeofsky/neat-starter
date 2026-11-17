@@ -6,48 +6,29 @@ layout: blog
     
     <!-- En-tête de section -->
     <div class="text-center max-w-3xl mx-auto mb-10">
-
-        <p class="mt-2 text-lg text-gray-600">Découvrez nos dernières vidéos.</p>
-    </div>
-
-    <!-- Barre de filtres par catégories (Alpine.js) -->
-    <div class="flex flex-wrap justify-center gap-2 mb-12">
-        <button @click="activeCategory = 'all'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'all', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'all' }"
-                class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            Tous les articles
-        </button>
-        <button @click="activeCategory = '---
-layout: blog
----
-
-<section class="mt-15 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" x-data="{ activeCategory: 'all' }">
-    
-    <!-- En-tête de section -->
-    <div class="text-center max-w-3xl mx-auto mb-10">
         <h1 class="text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">Nos derniers reportages</h1>
         <p class="mt-2 text-lg text-gray-600">Découvrez nos vidéos et articles sur le Canada.</p>
     </div>
 
-    <!-- Barre de filtres par catégories (Alpine.js) -->
+    <!-- Barre de filtres par catégories (Syntaxe x-on et x-bind compatible htmlmin) -->
     <div class="flex flex-wrap justify-center gap-2 mb-12">
-        <button @click="activeCategory = 'all'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'all', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'all' }"
+        <button x-on:click="activeCategory = 'all'" 
+                x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'all', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'all' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
             Tous les articles
         </button>
-        <button @click="activeCategory = 'regions'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'regions', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'regions' }"
+        <button x-on:click="activeCategory = 'regions'" 
+                x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'regions', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'regions' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
             Villes & Régions
         </button>
-        <button @click="activeCategory = 'activites'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'activites', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'activites' }"
+        <button x-on:click="activeCategory = 'activites'" 
+                x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'activites', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'activites' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
             Activités
         </button>
-        <button @click="activeCategory = 'pvt'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'pvt', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'pvt' }"
+        <button x-on:click="activeCategory = 'pvt'" 
+                x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'pvt', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'pvt' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
             Vie Pratique
         </button>
@@ -62,86 +43,7 @@ layout: blog
                  x-show="activeCategory === 'all' || activeCategory === '{{ post.data.category }}'"
                  x-transition>
             
-            <!-- Badge de catégorie (optionnel) -->
-            {% if post.data.category %}
-            <div class="mb-3">
-                <span class="inline-block bg-indigo-50 text-indigo-700 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">
-                    {{ post.data.category }}
-                </span>
-            </div>
-            {% endif %}
-
-            <!-- Titre et Lien principal -->
-            <h2 class="font-bold text-2xl text-gray-900 mb-2">
-                <a href="{{ post.url | url }}" class="hover:text-indigo-600 transition-colors">
-                    {% if post.data.title %}
-                        {{ post.data.title }}
-                    {% else %}
-                        Untitled
-                    {% endif %}
-                </a>
-            </h2>
-
-            <!-- Date -->
-            <p class="text-base leading-6 text-gray-500 mb-3">
-                <time>{{ post.date | readableDate }}</time>
-            </p>
-
-            <!-- Image au format d'origine -->
-            {% if post.data.coverImage %}
-            <div class="mb-4">
-                <a href="{{ post.url | url }}">
-                    <img src="/static/img/images/{{ post.data.coverImage }}" alt="{{ post.data.title }}" class="w-full h-auto rounded-lg" />
-                </a>
-            </div>
-            {% endif %}
-            
-            <!-- Description -->
-            {% if post.data.description %}
-                <p class="text-lg text-gray-500 mb-4 flex-1">
-                    {{ post.data.description }}
-                </p>
-            {% endif %}
-
-            <!-- Lien Voir la vidéo -->
-            <p class="mt-auto pt-4 border-t border-gray-100">
-                <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg inline-flex items-center gap-1 hover:text-indigo-700">
-                    Voir la vidéo →
-                </a>
-            </p>
-
-        </article>
-        
-        {% endfor %}
-    </div>
-
-</section>'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'regions', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'regions' }"
-                class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            🏙️ Villes & Régions
-        </button>
-        <button @click="activeCategory = 'nature'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'nature', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'nature' }"
-                class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            🌲 Parcs & Nature
-        </button>
-        <button @click="activeCategory = 'pratique'" 
-                :class="{ 'bg-indigo-600 text-white': activeCategory === 'pratique', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'pratique' }"
-                class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            ☕ Vie Pratique
-        </button>
-    </div>
-
-    <!-- Grille d'articles -->
-    {% set postslist = collections.post %}
-    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-        {% for post in postslist | reverse %}
-        
-        <article class="flex flex-col bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow duration-300 relative"
-                 x-show="activeCategory === 'all' || activeCategory === '{{ post.data.category }}'"
-                 x-transition>
-            
-            <!-- Badge de catégorie (optionnel) -->
+            <!-- Badge de catégorie -->
             {% if post.data.category %}
             <div class="mb-3">
                 <span class="inline-block bg-indigo-50 text-indigo-700 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">
