@@ -4,7 +4,6 @@ coverImage: edmunston.jpg
 author: Vivre Au Canada.tv
 date: 2026-08-15T15:04:21.203Z
 tags:
-  - activites
   - regions
 ---
 <center>
