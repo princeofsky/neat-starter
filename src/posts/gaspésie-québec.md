@@ -5,7 +5,7 @@ author: Vivre Au Canada
 date: 2026-01-15T12:53:16.610Z
 tags:
   - Québec
-  - activites
+  - regions
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/jERDUdngSIg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
