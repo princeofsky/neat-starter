@@ -5,6 +5,7 @@ author: Vivre Au Canada
 date: 2026-06-15T11:01:26.270Z
 tags:
   - pvt
+  - Nouveau-Brunswick
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/scsih_SbbjY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
