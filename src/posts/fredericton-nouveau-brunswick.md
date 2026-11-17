@@ -4,8 +4,8 @@ coverImage: fredericton.jpg
 author: Vivre Au Canada
 date: 2026-09-15T13:57:17.367Z
 tags:
-  - activites
   - Nouveau-Brunswick
+  - regions
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/3mNji7oUf0E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
