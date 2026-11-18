@@ -5,19 +5,16 @@ categories:
   - "ontario"
   - "ottawa"
 tags: 
-  - "canada"
-  - "canal-rideau"
-  - "capitale"
-  - "gatineau"
+  - "regions"
   - "ontario"
   - "ottawa"
-  - "outaouais"
   - "quebec"
 coverImage: "Sans-titre-21.jpg"
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/6DxmrqAkIoA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Ottawa est la capitale du Canada, située dans la province de l'Ontario, à la confluence de la rivière des Outaouais avec la rivière Gatineau et la rivière Rideau. Sur l'autre rive de la rivière des Outaouais, la ville de Gatineau rappelle que le Québec est tout proche. En outre, depuis 2002, la ville d'Ottawa a implanté une politique de bilinguisme. Parmi ses nombreux attraits, découvrez le Canal Rideau, le Musée des Beaux-Arts du Canada et son centre ville. Prêt pour une visite touristique ?
 
 ##### Lire aussi "[5 endroits à ne pas manquer à Ottawa](https://noteauvoyageur.eu/5-endroits-a-ne-pas-manquer-a-ottawa/)".
@@ -26,6 +23,6 @@ _Ottawa is the capital of Canada, a municipality and the second largest city wit
 
 #### Liens mentionnés dans la vidéo:
 
-- [Tourisme Ottawa](http://www.ottawatourism.ca/fr)
-- [National Gallery of Canada - Musée des beaux-arts du Canada](http://www.gallery.ca/)
-- [Commission de la capitale nationale](http://www.canadascapital.gc.ca/bins/index.asp)
+- [Tourisme Ottawa](https://www.ottawatourism.ca/)
+- [National Gallery of Canada - Musée des beaux-arts du Canada](https://www.gallery.ca/)
+- [Commission de la capitale nationale](http://www.canadascapital.gc.ca/)
