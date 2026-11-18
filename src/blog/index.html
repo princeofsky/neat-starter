@@ -17,7 +17,7 @@ layout: blog
         <button x-on:click="activeCategory = 'all'" 
                 x-bind:class="{ 'bg-indigo-600 text-white': activeCategory === 'all', 'bg-gray-100 text-gray-700 hover:bg-gray-200': activeCategory !== 'all' }"
                 class="px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150">
-            Tous les articles
+            Toutes les vidéos
         </button>
 
         <!-- Bouton Villes et régions -->
@@ -43,7 +43,7 @@ layout: blog
     </div>
 
     <!-- Grille d'articles -->
-    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-2">
         {% for post in postslist | reverse %}
         
         <!-- On injecte les tags dans un attribut data-tags pour que Alpine.js puisse les filtrer proprement -->
@@ -52,18 +52,6 @@ layout: blog
                  x-show="activeCategory === 'all' || $el.getAttribute('data-tags').includes(' ' + activeCategory + ' ')"
                  x-transition>
             
-            <!-- Badges des tags (affiche tous les tags de l'article sauf le tag technique 'post') -->
-            {% if post.data.tags %}
-            <div class="mb-3 flex flex-wrap gap-1">
-                {% for tag in post.data.tags %}
-                    {% if tag != "post" %}
-                    <span class="inline-block bg-indigo-50 text-indigo-700 text-xs font-semibold px-2.5 py-0.5 rounded-full uppercase tracking-wider">
-                        {{ tag }}
-                    </span>
-                    {% endif %}
-                {% endfor %}
-            </div>
-            {% endif %}
 
             <!-- Titre et Lien principal -->
             <h2 class="font-bold text-2xl text-gray-900 mb-2">
