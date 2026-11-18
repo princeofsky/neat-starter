@@ -5,7 +5,7 @@ categories:
   - "ontario"
   - "ottawa"
 tags: 
-  - "canada"
+  - "regions"
   - "ontario"
   - "ottawa"
 coverImage: "Sans-titre-12.jpg"
@@ -13,6 +13,7 @@ coverImage: "Sans-titre-12.jpg"
 <center>
 <iframe src="https://www.youtube.com/embed/cClWRGiqVNI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Ottawa est la capitale du Canada, située dans la province de l'Ontario. C'est en 1857 qu'Ottawa fut choisie comme capitale de la Province du Canada par la reine Victoria, et la construction du parlement débuta en 1859. Elle compte aujourd'hui près d'un million d'habitants ce qui en fait la quatrième plus grande ville du pays. Des édifices du gouvernement au fameux marché By, en passant par l'imposant Musée des Civilisations, découvrez ou redécouvrez Ottawa.
 
 ##### Lire aussi "[5 endroits à ne pas manquer à Ottawa](https://noteauvoyageur.eu/5-endroits-a-ne-pas-manquer-a-ottawa/)".
@@ -21,7 +22,7 @@ _Ottawa is the capital of Canada, within the province of Ontario. In 1857, Queen
 
 #### Liens mentionnés dans la vidéo:
 
-- [Tourisme Ottawa](http://www.ottawatourism.ca/fr)
+- [Tourisme Ottawa](http://www.ottawatourism.ca/)
 - [Colline du Parlement - Parliament Hill](http://www.parl.gc.ca/)
-- [Marché By - Byward Market](http://www.byward-market.com/fr/index.htm)
-- [Musée des Civilisations - Museum of Civilization](http://www.civilisations.ca/mcc/accueil/mcc-accueil)
+- [Marché By - Byward Market](http://www.byward-market.com/)
+- [Musée des Civilisations - Museum of Civilization](http://www.civilisations.ca/)
