@@ -5,17 +5,15 @@ categories:
   - "montreal"
   - "quebec"
 tags: 
-  - "castor"
-  - "lac"
-  - "mont-royal"
+  - "regions"
   - "montreal"
-  - "parc"
   - "quebec"
 coverImage: "Sans-titre-61.jpg"
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/-ex5eTINeO8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Le mont Royal est une colline qui domine la ville de Montréal. Inauguré le 24 mai 1876, jour de la fête de la reine Victoria, le parc du Mont-Royal constitue l'un des espaces verts les plus importants de Montréal. Boisé en grande partie, ce parc fut aménagé par Frederick Law Olmsted, paysagiste du Central Park à New York. Une croix en métal érigée en 1924 couronne la montagne. Le parc accueille de nombreuses activités l'hiver, mais c'est sous le soleil de l'été que nous vous proposons une balade.
 
 ##### Lire aussi l'article "[5 endroits à ne pas manquer à Montréal](https://www.noteauvoyageur.eu/5-endroits-a-ne-pas-manquer-a-montreal/)".
@@ -28,5 +26,5 @@ _Mount Royal is a mountain in the north of the city of Montreal. Inaugurated in 
 
 #### Liens mentionnés dans la vidéo:
 
-- [Site officiel du Mont Royal](http://www.lemontroyal.qc.ca/fr/connaitre-le-mont-royal/accueil.sn)
+- [Site officiel du Mont Royal](https://www.lemontroyal.qc.ca/)
 - [Sacrée Montagne - site interactif de l'ONF sur le Mont Royal](http://sacreemontagne.onf.ca/)
