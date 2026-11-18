@@ -5,8 +5,7 @@ categories:
   - "colombie-britannique"
   - "victoria"
 tags: 
-  - "canada"
-  - "citytrip"
+  - "regions"
   - "colombie-britannique"
   - "victoria"
 coverImage: "Sans-titre-43.jpg"
@@ -14,6 +13,7 @@ coverImage: "Sans-titre-43.jpg"
 <center>
 <iframe src="https://www.youtube.com/embed/B0rauRMIXrM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Victoria est la capitale provinciale de la Colombie-Britannique, et est située dans la partie sud-est de l'île de Vancouver, à 100 kilomètres de la plus grande ville de la Colombie-Britannique, Vancouver. Victoria est aussi proche des États-Unis, à une centaine de kilomètres de Seattle. Au recensement de 2006, on y a dénombré une population de 78 057 habitants. Au sud de la ville se trouve la borne kilométrique 0 marquant le début de la route transcanadienne. Un bel endroit pour commencer un voyage.
 
 ##### Lire aussi l'article "[A la découverte de Victoria](https://noteauvoyageur.eu/de-vancouver-a-victoria/)".
@@ -24,4 +24,4 @@ _Victoria is the capital city of British Columbia, Canada, and is located on the
 
 - [Site officiel de la ville de Victoria](http://www.victoria.ca/)
 - [Office de tourisme de Victoria](http://www.tourismvictoria.com/)
-- [Visiter le parlement de la Colombie-Britannique](http://www.leg.bc.ca/info/2-2-4.htm)
+- [Visiter le parlement de la Colombie-Britannique](https://www.leg.bc.ca/visit)
