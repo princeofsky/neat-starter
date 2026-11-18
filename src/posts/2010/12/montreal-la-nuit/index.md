@@ -5,16 +5,15 @@ categories:
   - "montreal"
   - "quebec"
 tags: 
-  - "by-night"
-  - "canada"
   - "montreal"
-  - "nuit"
+  - "regions"
   - "quebec"
 coverImage: "Sans-titre-41.jpg"
 ---
 <center>
 <iframe src="https://www.youtube.com/embed/TP91W104uNs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Montréal est la seconde plus grande ville du Canada après Toronto. Cette ville principalement francophone constitue le centre de la culture et des affaires de la province du Québec, en plus d'être l'un des endroits les plus effervescents et cosmopolites du Canada. Non contente d'être l'une des villes les plus accueillantes et vibrantes dans le monde, Montréal est aussi réputée pour sa vie nocturne enivrante et ses restaurants. Aucun visiteur n'en repart insatisfait. Qu'en dites-vous ?
 
 ##### Lire aussi l'article "[5 endroits à ne pas manquer à Montréal](https://www.noteauvoyageur.eu/5-endroits-a-ne-pas-manquer-a-montreal/)".
@@ -26,5 +25,5 @@ _Montreal is the second largest city in Canada after Toronto. This mainly French
 
 #### Liens mentionnés dans la vidéo:
 
-- [Office de tourisme de Montréal](http://www.tourisme-montreal.org/Accueil/)
+- [Office de tourisme de Montréal](http://www.tourisme-montreal.org/)
 - [Site de la ville de Montréal](http://ville.montreal.qc.ca/)
