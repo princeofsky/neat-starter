@@ -6,20 +6,9 @@ categories:
   - "informations"
   - "pvt"
 tags: 
-  - "administrative"
+  - "pvt"
   - "assurance"
-  - "canada"
-  - "centre"
-  - "formalite"
-  - "insurance"
   - "nas"
-  - "number"
-  - "numero"
-  - "permis"
-  - "service"
-  - "sin"
-  - "sociale"
-  - "travail"
 coverImage: "NumeroAssuranceSociale.jpg"
 ---
 <center>
