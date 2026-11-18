@@ -5,9 +5,7 @@ categories:
   - "colombie-britannique"
   - "vancouver"
 tags: 
-  - "british-columbia"
-  - "canada"
-  - "citytrip"
+  - "regions"
   - "colombie-britannique"
   - "vancouver"
 coverImage: "vancouver2minutes.jpg"
@@ -15,6 +13,7 @@ coverImage: "vancouver2minutes.jpg"
 <center>
 <iframe src="https://www.youtube.com/embed/yzMsEABhtFY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Vancouver est une ville portuaire du Canada, la plus importante de l'Ouest canadien, située dans la province de la Colombie-Britannique. Troisième agglomération la plus importante du Canada et capitale économique de la Colombie-Britannique, Vancouver est une ville compacte de plus de deux millions d'habitants coincée entre le fleuve Fraser et les montagnes. A découvrir en bien plus que deux minutes.
 
 ##### Lire aussi les articles :
@@ -26,7 +25,7 @@ _Vancouver is a coastal city located in the Lower Mainland of British Columbia, 
 
 #### Liens mentionnés dans la vidéo:
 
-- [Site officiel de la ville de Vancouver](http://vancouver.ca/)
+- [Site officiel de la ville de Vancouver](https://vancouver.ca/)
 - [Tourism Vancouver](https://www.tourismvancouver.com/)
-- [Vancouver Art Gallery](http://www.vanartgallery.bc.ca/)
-- [Vancouver Public Library](http://www.vpl.ca/)
+- [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/)
+- [Vancouver Public Library](https://www.vpl.ca/)
