@@ -6,10 +6,7 @@ categories:
   - "ottawa"
   - "quebec"
 tags: 
-  - "auberge"
-  - "canada"
-  - "jeunesse"
-  - "logement"
+  - "pvt"
   - "ottawa"
   - "quebec"
 coverImage: "Sans-titre-3.jpg"
@@ -17,11 +14,12 @@ coverImage: "Sans-titre-3.jpg"
 <center>
 <iframe src="https://www.youtube.com/embed/jLZjAENnWnk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 Hôtels, bed & breakfast ou auberges de jeunesse ? Vivre Au Canada s'intéresse cette semaine à ces dernières, en prenant deux exemples : l'auberge de jeunesse de Mont-Tremblant et la Jail Hostel d'Ottawa. Toutes deux facilement accessibles, elles représentent bien l'expérience de ce type de logement au Canada.
 
-_Hotels, B & Bs or hostels? This week, Vivre Au Canada looks at these last ones, taking two examples: the Youth Hostel Mont-Tremblant and the Ottawa Jail Hostel. Both are easily accessible, and well representative of this kind of experience in Canada._
-
 ##### Lire aussi "[Dormir dans une prison hantée à Ottawa](https://noteauvoyageur.eu/dormir-dans-une-ancienne-prison-hantee/)".
+
+_Hotels, B & Bs or hostels? This week, Vivre Au Canada looks at these last ones, taking two examples: the Youth Hostel Mont-Tremblant and the Ottawa Jail Hostel. Both are easily accessible, and well representative of this kind of experience in Canada._
 
 #### Liens mentionnés dans la vidéo:
 
