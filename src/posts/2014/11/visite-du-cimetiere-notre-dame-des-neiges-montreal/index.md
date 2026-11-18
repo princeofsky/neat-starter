@@ -8,6 +8,7 @@ categories:
 tags: 
   - "montreal"
   - "quebec"
+  - "activites"
 coverImage: "url-3.jpg"
 ---
 
