@@ -5,6 +5,7 @@ categories:
   - "immigration"
 tags: 
   - "pvt"
+  - "activites"
 coverImage: "Sans-titre-5.jpg"
 ---
 <center>
