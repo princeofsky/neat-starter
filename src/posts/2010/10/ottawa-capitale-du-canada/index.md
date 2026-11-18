@@ -25,4 +25,4 @@ _Ottawa is the capital of Canada, within the province of Ontario. In 1857, Queen
 - [Tourisme Ottawa](http://www.ottawatourism.ca/)
 - [Colline du Parlement - Parliament Hill](http://www.parl.gc.ca/)
 - [Marché By - Byward Market](http://www.byward-market.com/)
-- [Musée des Civilisations - Museum of Civilization](http://www.civilisations.ca/)
+- [Musée canadien de l'Histoire - Canadian Museum of History](https://www.museedelhistoire.ca/)
