@@ -7,15 +7,14 @@ categories:
 tags: 
   - "ete"
   - "festival"
-  - "francofolies"
-  - "jazz"
+  - "activites"
   - "montreal"
-  - "musique"
 coverImage: "francofoliesfestivaljazzmontreal.jpg"
 ---
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6dwkmnhoGjw" frameborder="0" allowfullscreen></iframe>
 </center>
+
 L'été est une saison propice aux activités en extérieur et de nombreux festivals se tiennent partout au Canada. Parmi eux, on trouve les **Francofolies de Montréal** et le **Festival International de Jazz** de Montréal.
 
 Les Francofolies présentent des spectacles d'artistes francophones de divers horizons musicaux et de diverses nationalités. Des artistes connus, des artistes de l'heure, tout comme des figures montantes. Il offre des spectacles gratuits et payants. Le Festival de Jazz est le plus important festival du genre sur la planète et adopte le même fonctionnement que les Francofolies. Les spectacles en extérieur peuvent rassembler plusieurs milliers de personnes.
@@ -29,7 +28,7 @@ _Les Francofolies offers performances by francophone artists from various musica
 
 #### Liens mentionnés dans la vidéo:
 
-- [Site officiel de Francofolies de Montréal](http://www.francofolies.com/default-fr.aspx)
-- [Site officiel du Festival International de Jazz](http://www.montrealjazzfest.com/default-fr.aspx)
-- [Loco Locass interprête "Le But" aux Francofolies](http://www.youtube.com/watch?v=nxRQSzY_RDs)
-- [Ariane Moffatt interprête "Réverbère" aux Francofolies](http://www.youtube.com/watch?v=Q4ip96D_qq8)
+- [Site officiel de Francofolies de Montréal](https://www.francofolies.com/)
+- [Site officiel du Festival International de Jazz](https://www.montrealjazzfest.com/)
+- [Loco Locass interprête "Le But" aux Francofolies](https://www.youtube.com/watch?v=nxRQSzY_RDs)
+- [Ariane Moffatt interprête "Réverbère" aux Francofolies](https://www.youtube.com/watch?v=Q4ip96D_qq8)
