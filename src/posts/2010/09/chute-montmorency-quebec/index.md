@@ -5,8 +5,7 @@ categories:
   - "quebec"
   - "quebecville"
 tags: 
-  - "chutes"
-  - "falls"
+  - "regions"
   - "montmorency"
   - "quebec"
 coverImage: "Sans-titre-42.jpg"
@@ -14,6 +13,7 @@ coverImage: "Sans-titre-42.jpg"
 <center>
 <iframe src="https://www.youtube.com/embed/21ngEvdrj1s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
+
 La chute Montmorency est une chute d'eau située à l'embouchure de la rivière Montmorency, où celle-ci se déverse par le rivage en falaise dans le fleuve Saint-Laurent, vis-à-vis de l'extrémité ouest de l'Île d'Orléans. Située non loin de la ville de Québec, la chute, d'une hauteur de 83 mètres, est la plus haute de la province du Québec et dépasse de trente mètres les fameuses chutes Niagara. Des escaliers de 487 marches permettent de l'observer sous différents angles. Un pont suspendu offrant un point de vue spectaculaire relie les deux côtés du parc. Il y a également un téléphérique qui transporte les visiteurs entre la base et le sommet de la chute. Notre vidéo vous la propose en été mais n'hésitez pas à aller l'admirer en hiver !
 
 ##### [Lire aussi l'article "Aux chutes Montmorency de Québec".](https://noteauvoyageur.eu/quebec-partie-2-les-chutes-montmorency/)
@@ -22,5 +22,5 @@ _The Montmorency Falls are a large waterfall on the Montmorency River in Quebec,
 
 #### Liens mentionnés dans la vidéo:
 
-- [Parc de la Chute-Montmorency](http://www.sepaq.com/ct/pcm/)
-- [Office de tourisme de Québec](http://www.quebecregion.com/fr/quoi_faire_activites/attraits/sites_touristiques/parc_de_la_chute-montmorency_30764?a=visp)
+- [Parc de la Chute-Montmorency](https://www.sepaq.com/fr/destinations/parc-chute-montmorency)
+- [Office de tourisme de Québec](https://www.quebecregion.com/)
