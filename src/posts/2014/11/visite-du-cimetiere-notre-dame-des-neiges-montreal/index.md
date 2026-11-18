@@ -6,10 +6,7 @@ categories:
   - "montreal"
   - "quebec"
 tags: 
-  - "cimetiere"
-  - "mont-royal"
   - "montreal"
-  - "notre-dame-des-neiges"
   - "quebec"
 coverImage: "url-3.jpg"
 ---
